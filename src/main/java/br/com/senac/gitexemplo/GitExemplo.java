@@ -4,14 +4,11 @@
  */
 
 package br.com.senac.gitexemplo;
+// Aprendendo a usar o Git
 
-/**
- *
- * @author Veadacit
- */
 public class GitExemplo {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello World 2!");
     }
 }
